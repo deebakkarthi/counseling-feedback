@@ -208,3 +208,6 @@ __marimo__/
 
 
 adapters/
+llama32_sft/
+outputs/
+unsloth_compiled_cache/
