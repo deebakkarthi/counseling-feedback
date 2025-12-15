@@ -208,6 +208,8 @@ __marimo__/
 
 
 adapters/
+fused_model/
+
 llama32_sft/
 outputs/
 unsloth_compiled_cache/
